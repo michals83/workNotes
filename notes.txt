@@ -28,11 +28,9 @@ expansion valve - high pressure to low pressure, low temperature, liquid to gas
 evaporator - low pressure, low temperature, gas
 
 
-Octopuz lesense:
+Octopuz license:
 0CB14-5K5UA-184T6-7
 
 
 SolidWorks Flow Simulation tutorial:
 https://youtu.be/xyU5Yvg7gL8
-
-850 CFM
