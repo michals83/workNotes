@@ -100,3 +100,14 @@ Microprobe
 X-ray Photoelectron Spectroscopy (XPS) and Auger electron Spectroscopy are surface analysis methods capable of measuring all elements (except H and He) present on and within the first few atomic layers of a surface
 
 Mass Spectroscopy
+
+Chiller - water exits 
+	0.24 MPa (34.8 psi), 23 L/min (6.1 gpm) to .32 MPa (46.4 psi), 28 L/min (7.4 gpm) 10 C
+
+GB - from 300 psi out of CO2 tank to 850 psi
+
+GAM - Gas Apmplifier Module 830 to 1250 psi, high pressure CO2
+
+SGM - Snow Generating Module, high velocity, supercritical low pressure CO2, lowers temperature of CO2
+
+PPM - Propellant Pressure Matrix

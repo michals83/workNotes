@@ -1,0 +1,65 @@
+high purity inline air filter
+
+Hello, 
+
+I am looking for a quick connect coupling for water at 7 gpm, 60 psi, 10 to 30 degrees C. Do you have something like this with minimal flow restriction / pressure drop?
+
+Contact me anytime via email or my cell phone number below.
+
+Ideally it would thread into 1/2" NPT female.
+
+
+Alex Michalski
+
+Reliabotics
+609-433-2643
+
+________________________
+Hello, 
+
+Do you have anything comparable to Swagelok's SS-SCF3-VR8-P-600?
+
+We are moving air at 12 to 15 cfm, room temperature to 125 C
+
+We also need a second one for CO2 moving at 3 to 12 cfm, 0 to 30 C
+
+Contact me anytime via email or my cell phone number below. 
+
+________________________
+air/CO2 filters, (seperate filters for air and CO2)
+air at 12-15 cfm, 60 to 90 psi, room temp to 125 C
+CO2 at 3 to 12 cfm*, 1250 psi, 0 to 30 C
+-need (7) filters for air, (7) filters for CO2
+*calculated from 5 gallons per hour per nozzle
+
+quick connect water fittings
+water at 7gpm (~1 cfm), 30 to 60 psi, 10 to 30 C
+-need (14) bodies, (14) stems, both with shutoff
+
+________________________
+Swagelok
+SS-SCF3-VR8-P-600
+$765.60
+in stock, 3-5 days
+
+Entegris
+	suggested three models, all will work with CO2 and Air, told to contact distributor in PA for pricing:
+	SI2N0025R
+	WG3NS7RR4
+	WG2S3P2RR4
+	877-318-9275 or ordersny@semitorrdist.com
+
+Pall
+SGLFPF6501VMM8
+$651.96
+37 days
+
+_______________________
+Swagelok
+
+CPC
+NS6D10008 body
+NS6D24008 stem
+
+Ryan Herco Flow Solutions   Piscataway, NJ	Phone: (800) 848-1141  	NJsales@rhfs.com
+Morse Fluid Technologies, Inc.   Ramsey, NJ	Phone: (201) 327-7487  	sales@morsefluid.com
