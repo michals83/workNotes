@@ -1,0 +1,23 @@
+velocity sensor pressure sensor
+
+arduino build with FS5.0.1L.195 SENSOR
+http://playground.arduino.cc/Main/ThermalAnemometer
+http://uk.farnell.com/ist/fs5-0-1l-195/sensor-flow-gas/dp/1778049
+
+hot wire anemometer article:
+http://www-g.eng.cam.ac.uk/whittle/current-research/hph/hot-wire/hot-wire.html
+
+
+
+Pressure detection pads:
+
+-not very accurate but has analog out
+https://www.adafruit.com/product/1075
+
+
+FUJIFILM pressure pads:
+http://www.fujifilm.com/products/prescale/prescale_sheettype/
+
+Ultra Super Low Pressure: 10-60 psi
+
+Super Low Pressure: 60 to 300 psi
