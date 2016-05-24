@@ -37,7 +37,7 @@ water at 7gpm (~1 cfm), 30 to 60 psi, 10 to 30 C
 -need (14) bodies, (14) stems, both with shutoff
 
 ________________________
-Swagelok, pressure drop ~25psi @425L/m
+Swagelok, pressure drop ~25psi @425L/m, 
 SS-SCF3-VR8-P-600
 $765.60
 in stock, 3-5 days
@@ -46,6 +46,7 @@ Entegris, pressure drop ~15psi @425L/m
 WG2S3P2RR4
 $792.50
 8 weeks
+WGMXMBRR4
 
 Pall, pressure drop ~1psi @425L/m
 SGLFPF6501VMM8
@@ -65,6 +66,9 @@ NS6D24008 stem
 	800-848-1141
 	NJsales@rhfs.com
 
+Parker, Cv 3.5
+BH4-60 body
+BH4-61 stem
 
 Jiffy-tite, Cv 4.4
 51808J body, $53

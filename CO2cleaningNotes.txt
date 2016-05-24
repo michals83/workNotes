@@ -37,6 +37,7 @@ Particle Counting
 Scanning Electron Microscopy (SEM)
 
 Energy Dispersive Spectroscopy (EDS) within an SEM allows for elemental identification of individual particles
+
 Microprobe
 
 X-ray Photoelectron Spectroscopy (XPS) and Auger electron Spectroscopy are surface analysis methods capable of measuring all elements (except H and He) present on and within the first few atomic layers of a surface
@@ -65,3 +66,9 @@ GAM - Gas Apmplifier Module 830 to 1250 psi, high pressure CO2
 SGM - Snow Generating Module, high velocity, supercritical low pressure CO2, lowers temperature of CO2
 
 PPM - Propellant Pressure Matrix
+
+
+
+microscopic slides glass expose them to reproducable marking, shine light though it measure reflection 
+
+glass fracture testing
