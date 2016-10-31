@@ -1,0 +1,28 @@
+CDA
+
+compressor->dryer->filter->tank->desiccant->valve->regulator/filter->purge valve->filter
+
+Compressor
+	SULLAIR 12BS-40H ACAC
+
+Dryer
+	ZEKS PNA200A100
+
+Filter
+	ZEKS Model ZFC235P, Element EC235P, Drain 634669
+
+Tank
+
+Desiccant
+	BEACH FILTERS
+
+Valve
+
+Regulator/filter
+	SMC AW40-N06CE-Z-8
+
+Purge valve
+	SMC VHS40-N06-RZ
+
+Filter
+	IMI NORGREN F46-600-A0DA
